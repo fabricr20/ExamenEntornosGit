@@ -190,8 +190,5 @@ public class Enteros {
 
 		return resultado;
 	}
-	/**
-	 * Cambios nuevos para github
-	 */
 }
 
